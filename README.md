@@ -1,6 +1,7 @@
 
 # Hand Digit Recognition Using OpenCV
 
+
 ## Overview
 
 This project focuses on developing a hand digit recognition system using OpenCV. The system can accurately identify and recognize hand-written digits in images, leveraging machine learning techniques and the power of OpenCV for image processing.
@@ -28,5 +29,10 @@ This project focuses on developing a hand digit recognition system using OpenCV.
    cd hand-digit-recognition
 
 ## Install the required packages
+   ```bash
 2. pip install opencv-python numpy scikit-learn tensorflow keras
+
+
+
+
 
