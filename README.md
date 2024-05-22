@@ -17,6 +17,7 @@ This project focuses on developing a hand digit recognition system using OpenCV.
 - OpenCV
 - NumPy
 - Scikit-learn (or any other machine learning library)
+2. 
 - TensorFlow/Keras (optional for using deep learning models)
 
 ## Installation
@@ -25,3 +26,8 @@ This project focuses on developing a hand digit recognition system using OpenCV.
    ```bash
    git clone https://github.com/yourusername/hand-digit-recognition.git
    cd hand-digit-recognition
+
+## Install the required packages
+2. pip install opencv-python numpy scikit-learn tensorflow keras
+## Run the file
+
