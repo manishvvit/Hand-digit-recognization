@@ -29,11 +29,4 @@ This project focuses on developing a hand digit recognition system using OpenCV.
 
 ## Install the required packages
 2. pip install opencv-python numpy scikit-learn tensorflow keras
-## Run the file
-hand-digit-recognition/
-│
-├── README.md               # Project documentation
-├── main.py                 # Script to recognize digits from images
-├── mnist.h5                # Trained digit recognition model
-└── train_digit_recognizer.py # Script to train the model
 
